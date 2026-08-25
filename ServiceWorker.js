@@ -1,4 +1,4 @@
-const cacheName = "Merchback-Paradrome Board-1.0";
+const cacheName = "Merchback-Paradrome TCG Online-1.0";
 const contentToCache = [
     "Build/Paradrome-board.loader.js",
     "Build/Paradrome-board.framework.js.unityweb",
